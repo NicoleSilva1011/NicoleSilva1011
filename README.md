@@ -1,6 +1,6 @@
 ## Hi, I'm Nicole
 
-I'm a developer focused on building projects with Python and Java.
+I'm a developer focused on building projects with Python.
 
 - Python: APIs, automation, and backend projects  
 - Java: Android apps and fundamentals  
